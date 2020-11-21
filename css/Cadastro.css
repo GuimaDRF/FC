@@ -1,0 +1,49 @@
+/* CSS Document */
+a{
+	color:#0094FC;
+	margin-left:190px;
+}
+
+h1{
+	margin-top:15px;
+}
+
+p{
+	margin-bottom:5px;;
+	margin-left:10px;
+	margin-top:20px;
+
+}
+
+#cadastro{
+	background:#FFF;
+	height:575px;
+	margin-left:670px;
+	margin-top:75px;
+	padding-top:15px;
+	width:575px;
+}
+
+#e-mail{
+	font-family:Signika;
+	font-size:20px;
+	height:45px;
+	margin-left:10px;
+	width:545px;
+}
+
+#nome{
+	font-family:Signika;
+	font-size:20px;
+	height:45px;
+	margin-left:10px;
+	width:545px;
+}
+
+#senha{
+	font-family:Signika;
+	font-size:20px;
+	height:45px;
+	margin-left:10px;
+	width:545px;
+}

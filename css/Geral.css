@@ -1,0 +1,50 @@
+/* CSS Document */
+
+body {
+	background:#EFEFEF;
+	font-family:Signika;
+	height:1080;
+	width:1920;
+}
+
+h1 {
+	color:#004768;
+	font-size:35px;
+	text-align:center;
+}
+
+p {
+	color:#004768;
+	font-size:20px;
+}
+
+#cadastroDeMedico{
+	background:#FFF;
+	border:hidden;
+	border-radius:10px;
+	color:#0094FC;
+	font-family:Signika;
+	font-size:20px;
+	height:70px;
+	width:280px;
+}
+
+#submit{
+	background:#0094FC;
+	border: hidden;
+	border-radius:10px;
+	color:#FFF;
+	font-family:Signika;
+	font-size:20px;
+	height:70px;
+	margin-left:145px;
+	margin-top:70px;
+	width:280px;
+}
+
+#topo{
+	background:#0094FC;
+	height:100px;
+	padding-left:1250px;
+	padding-top:30px;
+}
