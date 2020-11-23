@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Adicionar - remover horário</title>
+        <meta name="author" content="Guim@">
+        <meta name="description" content="Adicionar - remover horário">
+        <meta name="keywords" content="Guim@, Agenda, Médico">
+        <meta http-equip="content-type" content="text/html" charset="UTF-8">
+        <link href="css/Agenda.css" rel="stylesheet" type="text/css">
+        <link href="css/Geral.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+		<div id="topo">
+			<button id="cadastroDeMedico"><a id="cadastrar" href="Cadastro.html">Cadastro de médico</a></button>
+		</div>
+        <div id="adHorario">
+	        <h1>Adicionar horários</h1>
+        	<table><form>
+				<tr><p>Nome</p></tr>
+				<tr><h2 id="medico">Teste</h2></tr>
+				<tr><p>Data e hora</p></tr>
+				<tr><input type="text" name="dataM" id="dataM" placeholder="dd-mm-yyyy"><input type="text" name="horaM" id="horaM" placeholder="hh:mm"></tr>
+				<tr><input type="submit" value="Adicionar horário" name="submit" id="submit"></tr>
+			</form></table>
+			<a href="#" id="pagInicial">Voltar para a Página Inicial</a>
+		</div>
+        <div id="horariosConfigurados">
+	        <h1>Horários configurados</h1>
+			<p id="dataC">16/11/2020</p>
+			<p id="horaC">07:00</p>
+			<a href="#" id="remover">Remover</a>
+			<hr id="linha">
+        </div>
+    </body>
+</html>

@@ -1,0 +1,99 @@
+/* CSS Document */
+h1{
+	text-align:center;
+
+}
+
+h2 {
+	color:#004768;
+	font-family:Signika;
+	margin-bottom:35px;
+	margin-left:10px;
+	margin-top:15px;
+}
+
+p{
+	margin-bottom:5px;
+	margin-left:10px;
+	margin-top:20px;
+
+}
+
+#adHorario{
+	background:#FFF;
+	float:left;
+	height:460px;
+	margin-left:400px;
+	margin-top:75px;
+	padding-top:15px;
+	position:relative;
+	width:550px;
+}
+
+#dataC{
+	float:left;
+	padding-left:20px;
+}
+
+#dataM{
+	border:groove;
+	border-right:hidden;
+	color:#737373;
+	font-family:Signika;
+	font-size:20px;
+	height:40px;
+	margin-left:10px;
+}
+
+#e-mail{
+	font-family:Signika;
+	font-size:20px;
+	height:45px;
+	margin-left:10px;
+	width:545px;
+}
+
+#horaC{
+	float:left;
+}
+
+#horaM{
+	border:groove;
+	border-left:hidden;
+	color:#737373;
+	font-family:Signika;
+	font-size:20px;
+	height:40px;
+	width:325px;
+}
+
+#nome{
+	font-family:Signika;
+	font-size:20px;
+	height:45px;
+	margin-left:10px;
+	width:520px;
+}
+
+#horariosConfigurados{
+	background:#FFF;
+	float:left;
+	height:auto;
+	margin-left:25px;
+	margin-top:75px;
+	padding-bottom:15px;
+	padding-top:15px;
+	position:relative;
+	width:550px;
+}
+
+#linha{
+	width:90%;	
+}
+
+#remover{
+	color:red;
+	float: right;
+	padding-right:25px;
+	padding-top:20px;
+}
